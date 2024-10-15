@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-16T07:52:51Z" name="suite" finished-at="2022-11-16T07:52:55Z" duration-ms="3592">
+    <groups>
+    </groups>
+    <test started-at="2022-11-16T07:52:51Z" name="Test" finished-at="2022-11-16T07:52:55Z" duration-ms="3592">
+      <class name="TestNG_practice.LoginTest">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:TestNG_practice.LoginTest@2cd76f31]" started-at="2022-11-16T13:22:50Z" name="openBrowser" finished-at="2022-11-16T13:22:51Z" duration-ms="1651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login()[pri:0, instance:TestNG_practice.LoginTest@2cd76f31]" started-at="2022-11-16T13:22:51Z" name="login" finished-at="2022-11-16T13:22:55Z" duration-ms="3549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNG_practice.LoginTest@2cd76f31]" started-at="2022-11-16T13:22:55Z" name="closeBrowser" finished-at="2022-11-16T13:22:55Z" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNG_practice.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- suite -->
+</testng-results>

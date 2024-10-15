@@ -1,0 +1,8 @@
+<suite name="suite" parallel="tests">
+<parameter name="browser" value="Chrome"/>
+<test name="Test">
+<classes>
+<class name="TestNG_practice.LoginTest"/>
+</classes>
+</test>
+</suite>

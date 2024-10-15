@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="browser" value="Chrome"/>
+<test name="Test">
+<parameter name="username" value="kiran@gmail.com"/>
+<parameter name="password" value="123456"/>
+<parameter name="url" value="file://C:/Selenium/OfflineWebsiteForSelenium-/OfflineWebsiteForSelenium/OfflineWebsite/index.html"/>
+<classes>
+<class name="Selenium_Day19_TestNG_Parameterization.TestClass"/>
+</classes>
+
+</test>
+</suite>

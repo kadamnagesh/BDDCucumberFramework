@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [suite]">
+  <parameter name="browser" value="Chrome"/>
+  <test parallel="tests" name="Test(failed)" preserve-order="true">
+    <classes>
+      <class name="TestNG_practice.LoginTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="login"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- TestNG_practice.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [suite] -->

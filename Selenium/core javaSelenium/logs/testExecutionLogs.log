@@ -1,0 +1,8 @@
+10:55:32,204  INFO Selenium_Day28_POM2.Log4j.TestClass:12 - running test case : loginTest
+10:55:34,359  INFO Selenium_Day28_POM2.Log4j.TestClass:14 - url opened
+10:55:37,698  INFO Selenium_Day28_POM2.Log4j.TestClass:18 - email and password entered
+10:55:37,722  INFO Selenium_Day28_POM2.Log4j.TestClass:24 - loginTest Pass
+10:56:25,212  INFO Selenium_Day28_POM2.Log4j.TestClass:12 - running test case : loginTest
+10:56:26,947  INFO Selenium_Day28_POM2.Log4j.TestClass:14 - url opened
+10:56:30,237  INFO Selenium_Day28_POM2.Log4j.TestClass:18 - email and password entered
+10:56:30,255  INFO Selenium_Day28_POM2.Log4j.TestClass:24 - loginTest Pass
